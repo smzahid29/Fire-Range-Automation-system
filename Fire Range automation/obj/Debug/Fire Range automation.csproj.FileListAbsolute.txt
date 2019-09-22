@@ -1,0 +1,10 @@
+E:\zahid\Fire Range automation\Fire Range automation\bin\Debug\Fire Range automation.exe.config
+E:\zahid\Fire Range automation\Fire Range automation\bin\Debug\Fire Range automation.exe
+E:\zahid\Fire Range automation\Fire Range automation\bin\Debug\Fire Range automation.pdb
+E:\zahid\Fire Range automation\Fire Range automation\obj\Debug\Fire Range automation.csprojAssemblyReference.cache
+E:\zahid\Fire Range automation\Fire Range automation\obj\Debug\Fire_Range_automation.Properties.Resources.resources
+E:\zahid\Fire Range automation\Fire Range automation\obj\Debug\Fire Range automation.csproj.GenerateResource.cache
+E:\zahid\Fire Range automation\Fire Range automation\obj\Debug\Fire Range automation.csproj.CoreCompileInputs.cache
+E:\zahid\Fire Range automation\Fire Range automation\obj\Debug\Fire Range automation.exe
+E:\zahid\Fire Range automation\Fire Range automation\obj\Debug\Fire Range automation.pdb
+E:\zahid\Fire Range automation\Fire Range automation\obj\Debug\Fire_Range_automation.FireRange.resources
